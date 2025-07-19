@@ -8,8 +8,8 @@ This Power BI project analyzes Blinkit's grocery sales data to uncover patterns 
 ## Key Performance Indicators (KPIs)
 The dashboard focuses on the following primary KPIs:
 
-- Total Sales: Overall revenue generated from all items sold ($1.20M)
-- Average Sales: Average revenue per sale ($141)
+- Total Sales: Overall revenue generated from all items sold (Rs.1.20M)
+- Average Sales: Average revenue per sale (Rs.141)
 - Number of Items: Total count of different items sold (8523)
 - Average Rating: Average customer rating for items sold (3.9 out of 5)
 ## 🔧 Tools Used
