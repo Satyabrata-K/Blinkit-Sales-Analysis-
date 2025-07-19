@@ -19,7 +19,9 @@ The dashboard focuses on the following primary KPIs:
 - Excel (data prep)
 
 ## 📊 Features
-- Total and average sales by item type
+- Item Type Distribution: Shows sales distribution across various product categories
+- Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
+- Outlet Establishment Trend: Visualizes the growth of outlet establishments from 2012 to 2022
 - Insights by outlet size and location
 - Dynamic filtering and slicers
 - KPI Cards, Bar Charts, Donut Charts, Line Graphs
